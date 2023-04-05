@@ -7,7 +7,7 @@ Note The demo is compatible for semivariogram models with one structure only (e.
 ## Executive summary
 Neglecting the spatial correlation for subsurface applications in machine learning models could yield over-optimistic and unrealistic results. Furthermore, although some techniques have been suggested, the training from those techniques fails to replicate the difficulty of the final use of the model (the training may be excessively complicated or too easy).
 
-For instance, take a look at Figure 2 from the paper::
+For instance, take a look at Figure 2 from the paper:
 
 ![](Files/Figures/figure1.png)
 
